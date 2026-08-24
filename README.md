@@ -155,7 +155,7 @@ La aplicación será publicada mediante Vercel.
 
 URL del proyecto:
 
-> PENDIENTE DE PUBLICACIÓN
+[Ver portfolio publicado](https://pfo1-frontend-basconcelo.vercel.app/)
 
 ---
 
