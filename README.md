@@ -247,7 +247,7 @@ incorporadas según mi propio criterio.
 ---
 
 ##  Estructura del proyecto
-
+```text
 portfolio_Vasko/
 │
 ├── img/
@@ -258,3 +258,5 @@ portfolio_Vasko/
 ├── styles.css
 ├── .gitattributes
 └── README.md
+
+```
