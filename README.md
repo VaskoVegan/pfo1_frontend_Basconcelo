@@ -145,7 +145,7 @@ GitHub.
 
 GitHub:
 
-https://github.com/VaskoVegan
+[Visitar mi perfil de GitHub](https://github.com/VaskoVegan)
 
 ---
 
